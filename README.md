@@ -346,7 +346,6 @@
   For every lab, the workflow you will use to solve it is:
 
   <br>
-
   1. Open the lab by clicking the "Open" button.
 
   <br>
