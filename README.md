@@ -79,7 +79,7 @@
   style="display: block;" height="auto" width="auto"/> <br>
 
   <img
-  src="https://s3-us-west-2.amazonaws.com/curriculum-content/onboarding/first-ide-lab/filetreehidden.png"
+  src=c
   style="display: block;" height="auto" width="auto"/> <br>
 
   <h1>2. Navigate Folders with the File Tree</h1>
